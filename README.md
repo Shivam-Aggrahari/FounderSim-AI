@@ -10,7 +10,7 @@
 
 <p align="center">
 
-<a href="https://foundersim-ai.streamlit.app/Simulation_Lab">
+<a href="https://foundersim-ai.streamlit.app">
 <img src="https://img.shields.io/badge/🚀%20LIVE%20APP-FounderSim%20AI-2563eb?style=for-the-badge"/>
 </a>
 
@@ -56,7 +56,7 @@ into a unified founder simulation environment.
 
 ## 🚀 Launch FounderSim AI
 
-### https://foundersim-ai.streamlit.app/Simulation_Lab
+### https://foundersim-ai.streamlit.app
 
 ---
 
